@@ -1,0 +1,87 @@
+body{
+    height: 50rem;
+}
+
+.rocket{
+   margin-left: 40rem;
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-left: 6rem;
+    margin-top: 5rem;
+    color:  #6C63FF;
+    letter-spacing: 0.3rem;
+}
+
+.subscribe{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.1rem;
+    background-color:  #6C63FF;
+    border: none;
+    position: relative;
+    margin-top: 35%;
+    margin-left: 15rem;
+    width: 9rem;
+    height: 2.5rem;
+    border-radius: 0.5rem;
+}
+
+.title-button{
+    position: absolute;
+}
+
+.timer{
+    position: absolute;
+}
+
+.timer p{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #C8C8C8;
+    letter-spacing: 0.1rem;
+    margin-left: 9rem;
+    margin-top: 9rem;
+}
+
+#clock{
+    color: #4D4C59;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    position: relative;
+    display: inline-block;
+    font-size: 4rem;
+    letter-spacing: 0.1rem;
+    margin-left: 3.2rem;
+}
+
+.clock-running{
+    position: absolute;
+}
+
+.description{
+    color: #C8C8C8;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    margin-bottom: 0.8rem;
+}
+
+.day{
+    margin-left: 7rem;
+}
+
+.hour{
+    margin-left: 6rem;
+}
+
+.minutes{
+    margin-left: 5rem;
+}
+
+.second{
+    margin-left: 5rem;
+}
