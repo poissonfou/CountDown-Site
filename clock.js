@@ -19,7 +19,3 @@ var x = setInterval(function(){
     }
 }, 1000);
 
-function openFile(){
-        var popup = document.getElementById('popped');
-        popup.ClassList.toggle('pop')
-}
