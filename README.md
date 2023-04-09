@@ -1,3 +1,3 @@
-# rocketseat-2
+# CountDown
 
 Código do desafio CountDown do Discover da RocketSeat
